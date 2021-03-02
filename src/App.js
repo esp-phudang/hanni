@@ -19,6 +19,8 @@ function App() {
           conflictasdasdasd
           <div>asdasd88888</div>
     alo alo alo
+          conflict
+          <div>asdasd</div><div>asdasd</div>
         </a>
       </header>
     </div>
